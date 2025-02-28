@@ -1,4 +1,4 @@
-# ExploreEase - Your Ultimate Flight Companion
+# EasyTrip - Your Ultimate Flight Companion
 
 ## Introduction
 Easy Trip is a React Native flight booking app designed to enhance your travel experience by providing seamless flight search, booking, real-time flight tracking, and budget management. Leveraging **AI-powered recommendations** and **Firebase cloud services**, Easy Trip ensures a smooth and intelligent travel experience. Whether you're planning a business trip or a vacation, Easy Trip is your go-to flight assistant.
@@ -8,9 +8,7 @@ Easy Trip is a React Native flight booking app designed to enhance your travel e
 - **Real-Time Flight Tracking** – Get live updates on flight status and schedules.
 - **Airport & Airline Information** – Discover essential airport details and airline services.
 - **Budget & Expense Tracker** – Manage travel expenses effortlessly with AI-driven insights.
-- **Multi-Language Support** – Built-in translation for smooth communication.
-- **Loyalty & Rewards Program** – Earn points and access exclusive travel deals.
-- **Flight Alerts & Notifications** – Stay updated with real-time alerts on delays and gate changes.
+
 - **Firebase Authentication & Cloud Firestore** – Secure user authentication and real-time cloud database for flight and user data storage.
 
 ## Installation
@@ -28,7 +26,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/exploreease.git
+   git clone https://github.com/imma1001/EasyTrip.git
    ```
 2. Navigate to the project directory:
    ```sh
